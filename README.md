@@ -18,7 +18,8 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
 * [Condicionais](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula04-condicionais.py)
     * [Atividade 01](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula04-atividade01.py)
     * [Atividade 02](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula04-atividade02.ipynb)
-* [P1](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/tree/main/P1)
+* [P1 (Turma B)](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/tree/main/P1)
+* [P1 (Turma A)](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/p1-turma-a.ipynb)
 
 <div align="center">
     <h2>Autor</h2>
