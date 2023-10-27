@@ -1,8 +1,5 @@
 '''
-LISTAS:
-.extend .pop .remove len() .index()
-
-LOOP: (for)
+Loop for:
 lista range() enumerate()
 
 MODULOS:
