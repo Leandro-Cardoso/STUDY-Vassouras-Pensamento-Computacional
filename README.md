@@ -13,8 +13,9 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
 ### ⚙️ Estudos:
 * [Operadores Aritméticos](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula01-operadores.py)
 * [Tipos Primitivos](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula02-tipos-primitivos.py)
+    * [Atividade 01](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula03-atividade01.py)
+    * [Atividade 02](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula03-atividade02.py)
 * [P1](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/tree/main/P1)
-* []()
 
 <div align="center">
     <h2>Autor</h2>
