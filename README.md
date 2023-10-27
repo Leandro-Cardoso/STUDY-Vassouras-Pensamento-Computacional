@@ -15,6 +15,8 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
 * [Tipos Primitivos](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula02-tipos-primitivos.py)
     * [Atividade 01](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula03-atividade01.py)
     * [Atividade 02](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula03-atividade02.py)
+* [Condicionais](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula04-condicionais.py)
+    * [Atividade 01](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula04-atividade01.py)
 * [P1](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/tree/main/P1)
 
 <div align="center">
