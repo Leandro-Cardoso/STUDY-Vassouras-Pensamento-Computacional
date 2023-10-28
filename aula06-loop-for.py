@@ -1,9 +1,8 @@
 '''
 Loop for:
-lista range() enumerate()
-
-MODULOS:
-random -> randint() choice()
+lista       -> Repete o loop pelo tamanho da lista e retorna o elemento
+range()     -> Repete o loop por um intervalo e retorna o indice
+enumerate() -> Repete o loop pelo tamanho da lista e retorna o elemento e o indice
 '''
 
 vendas_1sem = [12, 20, 1, 50, 5, 10]
