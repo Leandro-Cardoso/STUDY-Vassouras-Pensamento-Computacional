@@ -14,12 +14,17 @@ lista[-n]
 n = -1, -2, -3, ...
 
 Funções:
-lista.append() -> Adiciona item na lista
 len(lista)     -> Retorna tamanho da lista
+lista.index()  -> Retorna o indice do elemento
+
+lista.append() -> Adiciona item na lista
 lista.extend() -> Junta duas listas
 lista.pop(i)   -> Remove o elemento do indice "i"
 lista.remove() -> Remove o elemento
-lista.index()  -> Retorna o indice do elemento
+
+lista.sort()   -> Organiza lista por ordem crescente
+sorted(lista)  -> Retorna lista na ordem crescente
+sorted(lista, reverse = True) -> Retorna lista na ordem decrescente
 '''
 
 quadrinhos = ['paciencia', 'turma monica', 'x-men evolution', 'born again', 'queda do morcego', 'ano 1']
