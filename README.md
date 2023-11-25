@@ -36,6 +36,8 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
     * [Atividade 03](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula07-atividade03.py)
     * [Atividade 04](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula07-atividade04.py)
 * [Loot (while)](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula08-loop-while.py)
+* [Atividades Extra](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula09-extra-atividade01.py)
+    * [Atividade 01](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula09-extra-atividade01.py)
 
 <div align="center">
     <h2>Autor</h2>
