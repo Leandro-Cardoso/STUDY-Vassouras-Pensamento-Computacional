@@ -50,6 +50,7 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
     * [Atividade 02](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula10-revisao-atividade02.py)
     * [Atividade 03](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula10-revisao-atividade03.py)
     * [Atividade 04](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula10-revisao-atividade04.py)
+    * [Atividade 05](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula10-revisao-atividade05.py)
 
 <div align="center">
     <h2>Autor</h2>
